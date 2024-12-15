@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whyxxh
 - 👀 I’m interested in computer programming and mathematics
 - 🌱 I’m currently learning the c programming language
-- 💞️ I’m looking to collaborate on anything that i would be quilified to
+- 💞️ I’m looking to collaborate on anything that i would be qualified to
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am 
 
